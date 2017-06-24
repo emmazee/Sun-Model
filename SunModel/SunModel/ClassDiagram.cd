@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SunModelWindows.AddAggregation">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACECAAABAAAACAAQACAAAYAAABAAAAEAAAAAA=</HashCode>
+      <FileName>AddAggregation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.AddAttribute" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAABAECAAkJBAIgCAQAICAAQcSEQAIGAAAAAAAAA=</HashCode>
+      <FileName>AddAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.AddBusinessProcess">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAQAIAAACAAAASAAABAAggAgAAAAAIAAA=</HashCode>
+      <FileName>AddBusinessProcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.AddDimension">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQCACAAABAAAACAAQACAAAYAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>AddDimension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.AddMeasure">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAJAAAACECAAABAAAACAAQICAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>AddMeasure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.EZSunModel">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>VYAQAiBAADAgEowCADCAgEFKgIAIgBgQAGBIIgAEBAk=</HashCode>
+      <FileName>EZ Sun Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.Node">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAAAAAgIAAAACIAAAACEAAEABYABgAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.Program">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.Aggregation">
+    <Position X="0.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAIAAAAAAAAAAAAAAAAIAAEAAAAAA=</HashCode>
+      <FileName>USMM\Aggregation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.Measure">
+    <Position X="5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAACAAAAAIAAAAQgAAAAAAAAASIAAAAAAAA=</HashCode>
+      <FileName>USMM\Measure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.Utils">
+    <Position X="14" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAQCAAAAAAAA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.Properties.Resources" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.Properties.Settings" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.USMM.BusinessProcess">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAAAgAAAEAUAAIACAAYgmBECAAhEAAAAhkQAAAA=</HashCode>
+      <FileName>USMM\BusinessProcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.USMM.ConceptualModel">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAACAAAAAAACAAAAAAACABAAABAAgkQAAAA=</HashCode>
+      <FileName>USMM\ConceptualModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.USMM.Dimension">
+    <Position X="5" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAABIEAACQjAAAAAgABAAAAIAQAAAA=</HashCode>
+      <FileName>USMM\Dimension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.USMM.Level">
+    <Position X="7.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgASAAAIAATEQSABoEAIAQjAIDBCgABgQAAAAQAEEA=</HashCode>
+      <FileName>USMM\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunModelWindows.USMM.SharedNodes">
+    <Position X="0.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>USMM\SharedNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SunModelWindows.USMM.MeasureType">
+    <Position X="7" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAAAA=</HashCode>
+      <FileName>USMM\ENUM.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SunModelWindows.USMM.LevelType">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAAAA=</HashCode>
+      <FileName>USMM\ENUM.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SunModelWindows.USMM.SunModelPart">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABAAAACAAAAAABAAAAAEAACQAAAAAAAAAEAAAA=</HashCode>
+      <FileName>USMM\ENUM.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
